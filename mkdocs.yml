@@ -1,0 +1,8 @@
+site_name: Try
+site_url: https://KristinaPlazonic.github.io/scratch4
+repo_url: https://github.com/KristinaPlazonic/scratch4
+pages:
+  - home: 'index.md'
+  - apage: 'a.md'
+theme: 
+  name: 'rtd-dropdown'
